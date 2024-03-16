@@ -9,6 +9,4 @@ router.post('/', (req, res) => {
   res.send('Create a new road trip');
 });
 
-// Add more routes as needed
-
 module.exports = router;

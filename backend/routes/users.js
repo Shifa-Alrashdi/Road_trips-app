@@ -9,6 +9,4 @@ router.post('/', (req, res) => {
   res.send('Create a new user');
 });
 
-// Add more routes as needed
-
 module.exports = router;
